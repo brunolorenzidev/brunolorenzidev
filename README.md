@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 📍  Sou de Curitiba, Paraná.<br>-🔭 Atualmente, trabalho como estagiário na Prefeitura de Curitiba.<br>-📚 Estou me aprofundando em linguagens de programação para expandir meus conhecimentos e habilidades.</p>
+<p align="left">- 📍  Sou de Curitiba, Paraná.<br><br>-🔭 Atualmente, trabalho como estagiário na Prefeitura de Curitiba.<br><br>-📚 Estou me aprofundando em linguagens de programação para expandir meus conhecimentos e habilidades.</p>
 
 ###
 
@@ -50,12 +50,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunolorenzidev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunolorenzidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunolorenzidev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunolorenzidev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/brunolorenzidev/count.svg?"  />
