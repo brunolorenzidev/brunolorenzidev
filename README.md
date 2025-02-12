@@ -45,11 +45,8 @@
 
 <div align="center">
   
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunolorenzidev&show_icons=true&locale=en&layout=compact" alt="brunolorenzidev" /></p>
-
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunolorenzidev&show_icons=true&locale=en" alt="brunolorenzidev" /></p>
-
+![brunolorenzidev's Stats](https://github-readme-stats.vercel.app/api?username=brunolorenzidev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![brunolorenzidev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolorenzidev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ###
 
