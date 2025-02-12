@@ -44,9 +44,12 @@
 </div>
  <br>
 
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=brunolorenzidev&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="brunolorenzidev's Stats" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolorenzidev&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="brunolorenzidev's Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunolorenzidev&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolorenzidev&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=320&langs_count=5" height="150" alt="languages graph" />
+</div>
+
 
 
 ###
