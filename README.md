@@ -46,6 +46,7 @@
 <div align="center">
   
  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolorenzidev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![card](https://github-readme-stats.vercel.app/api?username=brunolorenzidev&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
