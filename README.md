@@ -42,11 +42,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+ <br>
 
 <div align="center">
-  
-![brunolorenzidev's Stats](https://github-readme-stats.vercel.app/api?username=brunolorenzidev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![brunolorenzidev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolorenzidev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=brunolorenzidev&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="brunolorenzidev's Stats" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolorenzidev&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="brunolorenzidev's Top Languages" height="150">
+
 
 ###
 
