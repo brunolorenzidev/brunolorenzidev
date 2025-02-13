@@ -43,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
  <br>
+ 
+<h3 align="left">🔥 Status Github</h3>
 
 
 <div align="center">
@@ -60,7 +62,6 @@
 
 ###
 
-<h3 align="left">🔥 Status Github</h3>
 
 ###
 
