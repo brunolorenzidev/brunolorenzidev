@@ -52,14 +52,6 @@
 <br>
 
  
-<h3 align="left">🔥 Status Github</h3>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunolorenzidev&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolorenzidev&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=320&langs_count=5" height="150" alt="languages graph" />
-</div>
-
 
 
 ###
