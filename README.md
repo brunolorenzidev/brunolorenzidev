@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- Sou de Curitiba, Paraná.<br><br>- Atualmente, trabalho com suporte de sistemas no Grupo Boticário.<br><br>- Estou me aprofundando em testes de software e automações para ampliar minhas habilidades, resolver problemas cada vez mais complexos e impactar positivamente as pessoas.</p>
+<p align="left">🔹Sou de Curitiba, Paraná.<br><br>🔹Atualmente, trabalho com suporte de sistemas no Grupo Boticário.<br><br>🔹Estou me aprofundando em testes de software e automações para ampliar minhas habilidades, resolver problemas cada vez mais complexos e impactar positivamente as pessoas.</p>
 
 ###
 
