@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 📍  Sou de Curitiba, Paraná.<br><br>-🔭 Atualmente, trabalho como estagiário na Prefeitura de Curitiba.<br><br>-📚 Estou me aprofundando em linguagens de programação para expandir meus conhecimentos e habilidades.</p>
+<p align="left">- 📍  Sou de Curitiba, Paraná.<br><br>-🔭 Atualmente, trabalho com suporte de sistemas no Grupo Boticário.<br><br>-📚 Estou me aprofundando em testes de software e automações para ampliar minhas habilidades, resolver problemas cada vez mais complexos e impactar positivamente as pessoas.</p>
 
 ###
 
